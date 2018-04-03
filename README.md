@@ -1,4 +1,4 @@
-# DSpractice
+# Data Science Practice Analyses
 My Official Practical Experience in Data Science
 All my analyses will be done in Jupyter notebook along with notes as comments as to my thought process on how I arrived to the conclusion I got to.
 
