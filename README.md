@@ -3,9 +3,9 @@ This repository will outline all scripts, notebooks explaining and demonstrating
 
 Shamar Morgan
 (B.Sc in Electrical Engineering):
-Github: www.github.com/shamar1234
-Kaggle: https://www.kaggle.com/broman
-Twitter: https://twitter.com/Sham_Morgan
+- Github: www.github.com/shamar1234
+- Kaggle: https://www.kaggle.com/broman
+- Twitter: https://twitter.com/Sham_Morgan
 
 Below is the order in which I performed the analysis:
 1. Iris Dataset Prediction  
